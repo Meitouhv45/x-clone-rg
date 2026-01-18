@@ -1,5 +1,6 @@
 import express from "express";
 import {
+  followUser,
   getCurrentUser,
   getUserProfile,
   syncUser,
